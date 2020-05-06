@@ -1,0 +1,1 @@
+Includes Course Completion Certificate for the Excel Skills for Business Intermediate Part 1 Course part of the Excel Skills for Business  Specialization on Coursera by the Macquarie University.
