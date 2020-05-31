@@ -29,7 +29,7 @@ In this lesson, we learn how to use advanced formula techniques and sophisticate
 
 ## Instructors
 
-- **A/Professor Yvonne Breyer**
+- **Professor Yvonne Breyer**
 
 ## Technologies
 
